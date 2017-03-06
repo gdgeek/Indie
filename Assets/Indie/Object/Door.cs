@@ -6,7 +6,7 @@ public class Door : Obj {
 
 	// Use this for initialization
 	void Start () {
-		
+		//this.SendMessageString(
 	}
 	
 	// Update is called once per frame
